@@ -1,4 +1,4 @@
 ## Sne js!
 
-- this is important
+- just chilling here
 - im adding this from feature-branch
